@@ -1,7 +1,6 @@
 Layman and Allgeier, 2012
-
-Jen's practice dataset
 ================
+Jen's practice dataset
 
 For http://globalbioticinteractions.org
 
