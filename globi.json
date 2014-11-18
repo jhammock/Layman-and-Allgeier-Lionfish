@@ -1,4 +1,4 @@
 { 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature."
+  "_comment": "prepped by jhammock for import into http://github.com/globalbioticinteractions.",
+  "citation": "Layman, CA, Allgeier, JE. 2012. Characterizing trophic ecology of generalist consumers: a case study of the invasive lionfish in The Bahamas. Mar Ecol Prog Ser, Vol. 448: 131–141. doi: 10.3354/meps09511"
 }
