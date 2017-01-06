@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/26819655.svg)](https://zenodo.org/badge/latestdoi/26819655)
 
+[![Build Status](https://travis-ci.org/jhammock/Layman-and-Allgeier-Lionfish.svg?branch=master)](https://travis-ci.org/jhammock/Layman-and-Allgeier-Lionfish)
+
 Layman and Allgeier, 2012
 ================
 Jen's practice dataset
