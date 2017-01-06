@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/26819655.svg)](https://zenodo.org/badge/latestdoi/26819655)
+
 Layman and Allgeier, 2012
 ================
 Jen's practice dataset
